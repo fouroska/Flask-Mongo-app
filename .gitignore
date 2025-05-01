@@ -1,0 +1,8 @@
+venv/ 
+env/
+__pycache__/
+*.pyc
+*.exe
+*.pyo
+*.pyd
+25.1
