@@ -6,3 +6,5 @@ __pycache__/
 *.pyo
 *.pyd
 25.1
+test.py
+test1.py
