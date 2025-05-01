@@ -14,7 +14,12 @@
 
 - Python 3.9.13
 - Flask
-- pymongo
+- MongoDB (pymongo)
+- Postman (για δοκιμή API)
+  
+## Testing
+
+- Χρησιμοποιήστε το αρχείο Final_Flask_Mongo.postman_collection.json για να εισάγετε τα έτοιμα requests στο Postman.
 
 ## Εγκατάσταση
 
