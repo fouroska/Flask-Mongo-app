@@ -22,5 +22,4 @@
 
 1. Κλωνοποιήστε το repository:
 
-   ```bash
-   git clone https://github.com/username/your-repository.git
+   git clone https://github.com/fouroska/Flask-Mongo-app.git
